@@ -1,0 +1,2 @@
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\TestExperisGersonLeon\obj\Debug\TestExperisGersonLeon.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\TestExperisGersonLeon\obj\Debug\TestExperisGersonLeon.csproj.AssemblyReference.cache

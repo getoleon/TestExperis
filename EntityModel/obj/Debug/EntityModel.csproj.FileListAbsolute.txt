@@ -1,0 +1,5 @@
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\EntityModel\bin\Debug\EntityModel.dll
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\EntityModel\bin\Debug\EntityModel.pdb
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\EntityModel\obj\Debug\EntityModel.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\EntityModel\obj\Debug\EntityModel.dll
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\EntityModel\obj\Debug\EntityModel.pdb

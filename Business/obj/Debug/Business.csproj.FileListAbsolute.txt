@@ -1,0 +1,14 @@
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\Business\bin\Debug\Business.dll
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\Business\bin\Debug\Business.pdb
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\Business\bin\Debug\DataAccess.dll
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\Business\bin\Debug\EntityModel.dll
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\Business\bin\Debug\EntityFramework.dll
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\Business\bin\Debug\DataAccess.pdb
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\Business\bin\Debug\DataAccess.dll.config
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\Business\bin\Debug\EntityModel.pdb
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\Business\bin\Debug\EntityFramework.xml
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\Business\obj\Debug\Business.dll
+C:\Users\Gerson Leon\source\repos\TestExperisGersonLeon\Business\obj\Debug\Business.pdb
